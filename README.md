@@ -1,1 +1,1 @@
-# MachineMarket
+# The Machine Predicted Market
